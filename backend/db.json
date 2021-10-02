@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "name": "Notebook",
+      "price": "3567.87",
+      "id": 3
+    },
+    {
+      "name": "Lápis preto",
+      "price": "1.50",
+      "id": 4
+    },
+    {
+      "name": "Notebook sony vaio",
+      "price": "2999.00",
+      "id": 5
+    },
+    {
+      "name": "Calculadura HP",
+      "price": "230.00",
+      "id": 6
+    },
+    {
+      "name": "mouse red usb",
+      "price": "25.90",
+      "id": 7
+    },
+    {
+      "name": "mouse sem fio",
+      "price": "35.90",
+      "id": 8
+    },
+    {
+      "name": "mouse sem fio",
+      "price": "35.90",
+      "id": 9
+    },
+    {
+      "name": "Mouse gamer usb",
+      "price": "68.90",
+      "id": 10
+    },
+    {
+      "name": "mouse pad",
+      "price": "9.99",
+      "id": 11
+    },
+    {
+      "name": "Hd 1tB",
+      "price": "250.00",
+      "id": 12
+    },
+    {
+      "name": "Ssd 250gb Samsung",
+      "price": "249.00",
+      "id": 13
+    },
+    {
+      "name": "Tablet samsung 7''",
+      "price": "800.00",
+      "id": 14
+    }
+  ]
+}
